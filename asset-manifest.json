@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alfecaesar-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/alfecaesar-react/static/js/main.3c2f127d.chunk.js",
+    "main.js.map": "/alfecaesar-react/static/js/main.3c2f127d.chunk.js.map",
+    "runtime~main.js": "/alfecaesar-react/static/js/runtime~main.833906cc.js",
+    "runtime~main.js.map": "/alfecaesar-react/static/js/runtime~main.833906cc.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/alfecaesar-react/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/alfecaesar-react/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/alfecaesar-react/index.html",
+    "precache-manifest.d0aa78e71eb8514e6743ea9ed575c764.js": "/alfecaesar-react/precache-manifest.d0aa78e71eb8514e6743ea9ed575c764.js",
+    "service-worker.js": "/alfecaesar-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/alfecaesar-react/static/css/main.2cce8147.chunk.css.map"
+  }
+}
